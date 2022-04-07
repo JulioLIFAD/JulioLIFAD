@@ -1,8 +1,4 @@
-Hello
-mybe EFI folder 
-amd ryzen 
-big sur
-
+...
 
 
 <!---
