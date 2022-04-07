@@ -1,5 +1,9 @@
 Hello
-Mybe EFI folder amd ryzen big sur...
+mybe EFI folder 
+amd ryzen 
+big sur
+
+
 
 <!---
 JulioLIFAD/JulioLIFAD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
